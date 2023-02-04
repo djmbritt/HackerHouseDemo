@@ -8,8 +8,7 @@
       </a>
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <h2 class="text-2xl leading-7 font-semibold">
-          Welcome Istanbul Hacker House! 🔥🔥🔥🔥🔥
-        </h2>
+          Welcome Istanbul Hacker House! </h2>
         <p class="mt-3 text-gray-600">
           Deployed from Nosana Pipeline 🛤🛤🛤
           <br>
