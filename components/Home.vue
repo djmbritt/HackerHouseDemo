@@ -9,6 +9,8 @@
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <h2 class="text-2xl leading-7 font-semibold">
           Demo day Istanbul! </h2>
+          <br>
+          Welcome to our demo. We are excited to show you what we have been working on.
         <p class="mt-3 text-gray-600">
           Deployed from a Nosana Node.
           <br>
