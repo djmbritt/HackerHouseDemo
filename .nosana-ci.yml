@@ -19,8 +19,7 @@ jobs:
 
     - name: Install and Upload to IPFS
       commands:
-        - corepack enable
-        - corepack prepare pnpm@latest --activate
-        - pnpm install
-        - pnpm run generate:ipfs
-        - pnpm run ipfs
+        - npm install
+        - npm run generate:ipfs
+        - npm run ipfs
+  
