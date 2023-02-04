@@ -10,7 +10,7 @@
         <h2 class="text-2xl leading-7 font-semibold">
           Demo day Istanbul! </h2>
           <br>
-          Welcome to our demo. 
+          Welcome to our demo. 🔥🔥🔥🔥
           <br>
           We are excited to show you what we have been working on.
         <p class="mt-3 text-gray-600">
