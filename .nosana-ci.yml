@@ -19,6 +19,6 @@ jobs:
 
     - name: Install and Upload to IPFS
       commands:
-        - ls
-        - export FOO=HackerHouse
-        - echo $FOO
+        - npm install
+        - npm run generate:ipfs
+        - npm run ipfs
