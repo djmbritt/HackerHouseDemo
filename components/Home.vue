@@ -8,15 +8,12 @@
       </a>
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <h2 class="text-2xl leading-7 font-semibold">
-          Welcome to Istanbul Hacker House Demo Day!
+          <!-- Add welcome message -->
+          Istanbul Hacker House!
         </h2>
           <br>
-          Nosana - Trustless CI/CD
-          <br>
-          Check out our website at https://nosana.io
-          <br>
-          Deployed from a Nosana Node.
-          
+          <!-- Add tagline -->
+          Nosana - Trustless CI/CD for your dApps
         <p class="mt-3 text-gray-600">
           Deployed from a Nosana Node.
           <br>
