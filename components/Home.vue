@@ -13,7 +13,7 @@
         </h2>
           <br>
           <!-- Add tagline -->
-          Nosana - Trustless CI/CD for your dApps
+          Nosana - Trustless CI/CD for your dApps!
         <p class="mt-3 text-gray-600">
           Deployed from a Nosana Node.
           <br>
