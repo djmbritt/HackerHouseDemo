@@ -3,7 +3,7 @@ nosana:
     description: Hacker House Demo
 
 global:
-    image: registry.hub.docker.com/library/node:16
+    image: node:16
 
     trigger:
         branch:
