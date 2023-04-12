@@ -3,22 +3,15 @@ nosana:
     description: Hacker House Demo
 
 global:
-    image: node:16
+    image: alpine:latest
 
     trigger:
         branch:
             - main
-
-    environment:
-      PINATA_JWT_KEY:
-        type: nosana/secret
-        endpoint: https://secrets.k8s.prd.nos.ci
-        value: PINATA_JWT_KEY
-
 jobs:
 
-    - name: Install and Upload to IPFS
+    - name: Test
       commands:
-        - yarn install
-        - yarn run generate:ipfs
-        - yarn run ipfs
+        - ls -lah
+        - env
+        - pwd
